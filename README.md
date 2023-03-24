@@ -16,6 +16,6 @@ The project's primary functionality is implemented using JavaScript, which handl
 Expanding Cards is an excellent project for anyone interested in web development, particularly front-end development. It demonstrates how to use HTML, CSS, and JavaScript to create a responsive and engaging user interface. Additionally, the project can be easily customized to showcase different types of content, such as artwork, products, or services.
 
 ## Screenshots:
-![Screenshot1](./one.png)
-![Screenshot1](./two.png)
-![Screenshot1](./three.png)
+<img width="1159" alt="one" src="https://user-images.githubusercontent.com/96701357/227396320-e9b5aa72-3ba0-4fda-af4c-16e0766ca3a4.png">
+<img width="1159" alt="two" src="https://user-images.githubusercontent.com/96701357/227396350-2cb28f5d-fd8b-40c8-84ed-3f5847b942af.png">
+<img width="1159" alt="three" src="https://user-images.githubusercontent.com/96701357/227396367-d6079b16-e585-46fa-aa6c-781f71797ed9.png">
